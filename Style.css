@@ -1,0 +1,19 @@
+* {
+    background-color:aquamarine;
+    font-family: Arial, Verdana, sans-serif;
+    text-align: center;
+}
+
+#heading {
+    color:rebeccapurple;
+}
+
+#distance, #attemptsLeft {
+    color:chocolate;
+}
+
+#map {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
